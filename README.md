@@ -20,6 +20,30 @@ To build a machine learning model that can accurately predict a country’s GDP 
 
 ---
 
+## 💼 Business Questions & Use Cases
+
+This project is guided by questions that reflect real-world policy and decision-making needs:
+
+1. **Which countries have shown the most consistent economic growth over the past 15 years, and what can we learn from them?**  
+   *Helps investors and economic planners spot reliable growth regions.*
+
+2. **How did the 2008 financial crisis impact global economies, and which countries recovered the fastest?**  
+   *Supports governments in designing better crisis response strategies.*
+
+3. **Can we estimate a country’s upcoming GDP using only past performance?**  
+   *Crucial for budgeting, planning, and economic policy development.*
+
+4. **What role do recent years play in predicting economic trends compared to older data?**  
+   *Informs which indicators should be prioritized for forecasting.*
+
+5. **How can this model be used to fill in missing data for underreported countries or regions?**  
+   *Enables NGOs and researchers to operate where official data is sparse or delayed.*
+
+These questions reflect practical needs and ensure the analysis remains relevant to policymakers, economists, and analysts.
+
+
+---
+
 ## 📈 Exploratory Insights
 
 - GDP ranges from **$15 million** to **$14.7 trillion**.
